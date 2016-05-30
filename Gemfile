@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+gem 'jekyll', '3.0.0'
+#gem 'github-pages', '20'
+# gem 'sass', '~> 3.2.19'
+# gem 'bourbon'
