@@ -1,5 +1,5 @@
-url: http://pilz.github.io/jekyll-danskskole
-# baseurl: /agency-jekyll-theme/
+url: http://pilz.github.io/jekyll-danskskole/
+baseurl: /jekyll-danskskole/
 
 # Site settings
 title: Den Danske Skole e.V.
