@@ -17,15 +17,14 @@ I er selvfølgelig meget velkomne til at sende evt. spørgsmål til: <a href="ma
 
 Alle relevante formularer og informationsmateriale finder I nedenfor:
  
-- Tilmelding til forening
-- Tilmelding til undervisning 2014/2015
-- Huskeliste
-- Undervisningskoncept
-- Den Danske Skoles vedtægter/Satzung
- 
+- <a href="files/1_Vereinsbeitrittserklaerung_2012.doc">Tilmelding til forening</a>
+- <a href="files/1_Unterrichtsvertrag_20142015.pdf">Tilmelding til undervisning 2014/2015</a>
+- <a href="files/Huskeliste_Den_Danske_Skole.doc">Huskeliste</a>
+- <a href="files/koncept_dk-skole.doc">Undervisningskoncept</a>
+- <a href="files/SatzungMai2010.doc">Den Danske Skoles vedtægter/Satzung</a> 
  
 ## Generalforsamling
  
-- Protokol 2012
-- Protokol 2013
-- Protokol 2014
+- <a href="files/2012Mitgliederversammlung.doc">Protokol 2012</a>
+- <a href="files/2013_Protokoll_Mitgliederversammlung.pdf">Protokol 2013</a>
+- <a href="files/2014_Protokoll_Mitgliederversammlung.pdf">Protokol 2014</a>
