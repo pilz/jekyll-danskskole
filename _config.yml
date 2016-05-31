@@ -42,18 +42,66 @@ bestyrelse:
     - title: facebook
       url: https://www.facebook.com/profile.php?id=1194761842
 
+
+
 # Team names, titles and social links
 people:
-- name: "Lotte Søding Nielsen"
+- name: "Lotte Sødring Nielsen"
   pic: 1
-  position: Legegruppen
+  position: Lærer for Legegruppen
   social:
     - title: facebook
       url: https://www.facebook.com/profile.php?id=1194761842
 
+- name: Sophie-Amalie Munch
+  pic: 5
+  position: Hjælpelærer for legegruppen 
+  social:
+    # - title: linkedin
+    #   url: birgit bazzar
+    - title: facebook
+      url: https://www.facebook.com/sophieamalie.munch.9
+    # - title: google-plus
+    #   url: #
+
+- name: Maiken Bertelsen
+  pic: 4
+  position: Lærer for 0. klasse
+  social:
+    # - title: linkedin
+    #   url: birgit bazzar
+    - title: facebook
+      url: https://www.facebook.com/maiken.bertelsen.1
+    # - title: google-plus
+    #   url: #
+
+- name: Nana Arnfred
+  pic: 6
+  position: Lærer for 0. Klasse 
+  social:
+    # - title: linkedin
+    #   url: birgit bazzar
+    - title: facebook
+      url: https://www.facebook.com/NSMA2206
+    # - title: google-plus
+    #   url: #
+
+
+- name: Anna Øhrberg Nielsen
+  pic: 10
+  position: Hjælpelærer for 0. Klasse 
+  social:
+    # - title: linkedin
+    #   url: birgit bazzar
+    - title: facebook
+      url: https://www.facebook.com/annaohrnielsen?fref=ts
+    # - title: google-plus
+    #   url: #
+
+
 - name: Sabine Emslander
   pic: 2
-  position: Første og Anden Klasse
+  position: Lærer for 1. og 2. klasse
   social:
     # - title: twitter
     #   url: #
@@ -62,9 +110,20 @@ people:
     # - title: linkedin
     #   url: #
 
+- name: Laura Helmersen Christensen
+  pic: 12
+  position: Hjælpelærer for 1. og 2. klasse
+  social:
+    # - title: twitter
+    #   url: #
+    - title: facebook
+      url: https://www.facebook.com/laura.h.christensen.7?fref=ts
+    # - title: linkedin
+    #   url: #
+
 - name: Birgit Bazzar
   pic: 3
-  position: 4. + 5. klasse
+  position: Lærer for 4. + 5. klasse
   social:
     - title: linkedin
       url: birgit bazzar
@@ -73,18 +132,30 @@ people:
     # - title: google-plus
     #   url: #
 
+- name: Cheri Isen
+  pic: 11
+  position: Vikar
+  social:
+    # - title: linkedin
+    #   url: birgit bazzar
+    - title: facebook
+      url: https://www.facebook.com/cheri.isen?fref=ts
+    # - title: google-plus
+    #   url: #
+
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
+  # - title: twitter
+  #   url: http://twitter.com/jekyllrb
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+    url: https://www.facebook.com/groups/368658962706/
+  # - title: stack-overflow
+  #   url: http://stackoverflow.com/questions/tagged/jekyll
+  # - title: bitbucket 
+  #   url: http://bitbucket.org/jekyll
+  # - title: github
+  #   url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
