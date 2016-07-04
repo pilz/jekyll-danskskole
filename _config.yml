@@ -7,40 +7,40 @@ email: skole@dawn.dk
 description: "Den Danske Skole giver mulighed for at mødes med ligesindede i hyggelige og lærerige rammer."
 
 bestyrelse:
-- name: "Sabine Jensen"
-  pic: 1
+- name: "Karina Kjær"
+  pic: 2
   position: Formand
   social:
     - title: facebook
-      url: https://www.facebook.com/sabine.jensen.566
+      url: https://www.facebook.com/profile.php?id=540891956
 
-- name: "Dr. Karina Bauer"
-  pic: 2
+- name: "Stine Kirkegaard"
+  pic: 5
   position: "Næstformand"
   social:
     - title: facebook
-      url: https://www.facebook.com/profile.php?id=540891956&pnref=lhc.unseen
+      url: https://www.facebook.com/stine.h.kirkegaard
 
 - name: "Steen Skole"
   pic: 3
-  position: "Kasserer"
+  position: "Kasser"
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/steen-skole-a361799
 
-- name: "Kim Jensen"
-  pic: 4
-  position: "Sekretær & Web Administrator"
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/kimnjensen
-
-- name: "Stine Kirkegaard"
-  pic: 5
-  position: "Kommunikationskonsulent"
+- name: "Bobby Bo"
+  pic: 6
+  position: "Bøger et al"
   social:
     - title: facebook
-      url: https://www.facebook.com/stine.h.kirkegaard
+      url: https://www.facebook.com/DanishDynamite
+
+- name: "Mikkel Tøttrup"
+  pic: 7
+  position: "Dirigent :)"
+  social:
+    - title: facebook
+      url: https://www.facebook.com/mikkel.toettrup
 
 
 
