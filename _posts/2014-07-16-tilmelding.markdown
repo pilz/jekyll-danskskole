@@ -31,7 +31,7 @@ I er selvfølgelig meget velkomne til at sende evt. spørgsmål til: <a href="ma
  
 <a href="files/Huskeliste_Den_Danske_Skole.doc" type="button" class="btn btn-default"><i class="fa fa-download"></i> Huskeliste</a>
 <a href="files/koncept_dk-skole.doc" type="button" class="btn btn-default"><i class="fa fa-download"></i> Undervisningskoncept</a>
-<a href="files/SatzungMai2010.doc" type="button" class="btn btn-default"><i class="fa fa-download"></i> Den Danske Skoles vedtægter/Satzung</a>
+<a href="files/Satzung_Jan2015.pdf" type="button" class="btn btn-default"><i class="fa fa-download"></i> Den Danske Skoles vedtægter/Satzung (Jan 2015)</a>
 
 <!-- <a href="files/1_Vereinsbeitrittserklaerung_2012.doc">Tilmelding til forening</a><br>
 <a href="files/1_Unterrichtsvertrag_20142015.pdf">Tilmelding til undervisning 2014/2015</a><br>
@@ -46,6 +46,7 @@ I er selvfølgelig meget velkomne til at sende evt. spørgsmål til: <a href="ma
 <a href="files/2012Mitgliederversammlung.doc" type="button" class="btn btn-default"><i class="fa fa-download"></i> 2012</a>
 <a href="files/2013_Protokoll_Mitgliederversammlung.pdf" type="button" class="btn btn-default"><i class="fa fa-download"></i> 2013</a>
 <a href="files/2014_Protokoll_Mitgliederversammlung.pdf" type="button" class="btn btn-default"><i class="fa fa-download"></i> 2014</a>
+<a href="files/2016_Protokoll_Mitgliederversammlung.pdf" type="button" class="btn btn-default"><i class="fa fa-download"></i> 2016</a>
  
 <!-- <a href="files/2012Mitgliederversammlung.doc">Protokol 2012</a><br>
 <a href="files/2013_Protokoll_Mitgliederversammlung.pdf">Protokol 2013</a><br>
