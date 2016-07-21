@@ -39,6 +39,10 @@ a {
     color: #{{ site.data.template.color.primary }};
 }
 
+.modal-body a {
+    color: #{{ site.data.template.color.secondary }};    
+}
+
 a:hover,
 a:focus,
 a:active,
@@ -74,7 +78,7 @@ h6 {
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
     font-weight: 700;
-    color: #fff;
+    color: #fff !important;
     background-color: #{{ site.data.template.color.primary }};
 }
 
@@ -84,7 +88,7 @@ h6 {
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
     border-color: #{{ site.data.template.color.primary }};
-    color: #fff;
+    color: #fff !important;
     background-color: #{{ site.data.template.color.secondary }};
 }
 
@@ -115,9 +119,18 @@ fieldset[disabled] .btn-primary.active {
 
 .btn-primary .badge {
     color: #{{ site.data.template.color.primary }};
-    background-color: #fff;
+    background-color: #fff !important;
 }
 
+.btn-default {
+    color: #fff !important;
+}
+
+.btn-download {
+    padding: 2px 4px;
+    font-size: smaller;
+
+}
 .btn-xl {
     padding: 20px 40px;
     border-color: #{{ site.data.template.color.primary }};
@@ -126,7 +139,7 @@ fieldset[disabled] .btn-primary.active {
     font-family: {{ site.data.template.font.primary }};
     font-size: 18px;
     font-weight: 700;
-    color: #fff;
+    color: #fff !important;
     background-color: #{{ site.data.template.color.primary }};
 }
 
@@ -136,7 +149,7 @@ fieldset[disabled] .btn-primary.active {
 .btn-xl.active,
 .open .dropdown-toggle.btn-xl {
     border-color: #{{ site.data.template.color.primary }};
-    color: #fff;
+    color: #fff !important;
     background-color: #{{ site.data.template.color.secondary }};
 }
 
@@ -778,7 +791,6 @@ ul.social-buttons li a:active {
     min-height: 100%;
     border: 0;
     border-radius: 0;
-    text-align: center;
     background-clip: border-box;
     -webkit-box-shadow: none;
     box-shadow: none;

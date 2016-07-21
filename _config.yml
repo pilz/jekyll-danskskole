@@ -28,16 +28,16 @@ bestyrelse:
     - title: linkedin
       url: https://www.linkedin.com/in/steen-skole-a361799
 
-- name: "Bobby Bo"
+- name: "Bolette Borksand"
   pic: 6
-  position: "Bøger et al"
+  position: "Sekretær"
   social:
     - title: facebook
       url: https://www.facebook.com/DanishDynamite
 
 - name: "Mikkel Tøttrup"
   pic: 7
-  position: "Dirigent :)"
+  position: "Ungdomsofficer"
   social:
     - title: facebook
       url: https://www.facebook.com/mikkel.toettrup
