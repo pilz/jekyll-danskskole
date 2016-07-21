@@ -1,5 +1,5 @@
-url: http://pilz.github.io/jekyll-danskskole/
-baseurl: /jekyll-danskskole/
+url: http://www.dansk-skole.de
+baseurl: 
 
 # Site settings
 title: Den Danske Skole e.V.
@@ -23,7 +23,7 @@ bestyrelse:
 
 - name: "Steen Skole"
   pic: 3
-  position: "Kasser"
+  position: "Kasserer"
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/steen-skole-a361799
