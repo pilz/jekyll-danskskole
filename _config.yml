@@ -55,7 +55,7 @@ people:
 
 - name: Sophie-Amalie Munch
   pic: 5
-  position: Hjælpelærer for legegruppen 
+  position: Vikar
   social:
     # - title: linkedin
     #   url: birgit bazzar
@@ -63,6 +63,13 @@ people:
       url: https://www.facebook.com/sophieamalie.munch.9
     # - title: google-plus
     #   url: #
+
+- name: "Mikkel Tøttrup"
+  pic: 7
+  position: "Hjælpelærer for legegruppen"
+  social:
+    - title: facebook
+      url: https://www.facebook.com/mikkel.toettrup
 
 - name: Maiken Bertelsen
   pic: 4
@@ -77,7 +84,7 @@ people:
 
 - name: Nana Arnfred
   pic: 6
-  position: Lærer for 0. Klasse 
+  position: Lærer for 2. + 3. klasse 
   social:
     # - title: linkedin
     #   url: birgit bazzar
@@ -87,49 +94,15 @@ people:
     #   url: #
 
 
-- name: Anna Øhrberg Nielsen
-  pic: 10
-  position: Hjælpelærer for 0. Klasse 
-  social:
-    # - title: linkedin
-    #   url: birgit bazzar
-    - title: facebook
-      url: https://www.facebook.com/annaohrnielsen?fref=ts
-    # - title: google-plus
-    #   url: #
-
-
 - name: Sabine Emslander
   pic: 2
-  position: Lærer for 1. og 2. klasse
+  position: Lærer for 0. klasse
   social:
     # - title: twitter
     #   url: #
     - title: facebook
       url: https://www.facebook.com/sabine.emslander.5?fref=ts
     # - title: linkedin
-    #   url: #
-
-- name: Laura Helmersen Christensen
-  pic: 12
-  position: Hjælpelærer for 1. og 2. klasse
-  social:
-    # - title: twitter
-    #   url: #
-    - title: facebook
-      url: https://www.facebook.com/laura.h.christensen.7?fref=ts
-    # - title: linkedin
-    #   url: #
-
-- name: Birgit Bazzar
-  pic: 3
-  position: Lærer for 4. + 5. klasse
-  social:
-    - title: linkedin
-      url: birgit bazzar
-    # - title: facebook
-    #   url: #
-    # - title: google-plus
     #   url: #
 
 - name: Cheri Isen
@@ -142,6 +115,29 @@ people:
       url: https://www.facebook.com/cheri.isen?fref=ts
     # - title: google-plus
     #   url: #
+
+- name: Rune Stefansson
+  pic: 13
+  position: Lærer for 4. + 5. klasse
+  social:
+    # - title: linkedin
+    #   url: birgit bazzar
+    - title: facebook
+      url: https://www.facebook.com/rune.stefansson
+    # - title: google-plus
+    #   url: #
+
+- name: Rune Krüger
+  pic: 13
+  position: Duke of Edinburgh Award deltager
+  social:
+    # - title: linkedin
+    #   url: birgit bazzar
+    - title: facebook
+      url: https://www.facebook.com/rune.stefansson
+    # - title: google-plus
+    #   url: #
+
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)

@@ -18,7 +18,7 @@ Vores tilbud til børnene afhænger af deres alder:
 
 - 0-3 år: Miniklub, hvor barnet deltager med forældre i den første time af legegruppen. Dette koster 5 € /måned per barn eller 50 €/ år per barn.
 - Fra 3 år deltager barnet uden forældre. Undervisningsgebyret koster 25 € / måned per barn eller 250 €/ år per barn.
-- Fra ca. 11 år/ 6.klasse kan barnet deltage i Lørdags fritteren. Den mødes en gang om måneden og koster 10€ / måned per barn eller 100 €/ år per barn.
+- Fra ca. 11 år/ 6.klasse kan barnet deltage i Lørdags fritteren. Den mødes en gang om måneden og koster 15€ / måned per barn eller 150 €/ år per barn.
 
 Oversigt over undervisningslørdage kan findes på hjemmesiden. Ved årlig betaling forventer vi indbetaling senest d. 15 Oktober. 
 
@@ -35,7 +35,7 @@ Tel 08141 363 75 87
 info@dansk-skole.de
 </pre>
 
-- Tilmelding til forening <a href="files/1_Vereinsbeitrittserklaerung_2012.doc" type="button" class="btn btn-default btn-download"><i class="fa fa-check-square"></i> Download Tilmeldingsaftale</a>
+- Tilmelding til forening (2016) <a href="files/1_Vereinsbeitrittserklaerung_2016.doc" type="button" class="btn btn-default btn-download"><i class="fa fa-check-square"></i> Download Tilmeldingsaftale</a>
 - Tilmelding til undervisning <a href="files/1_Unterrichtsvertrag_20142015.pdf" type="button" class="btn btn-default btn-download"><i class="fa fa-check-square"></i> Download Undervisningsaftale</a>
 
 I er selvfølgelig meget velkomne til at sende evt. spørgsmål til: <a href="mailto:info@dansk-skole.de">info@dansk-skole.de</a>
