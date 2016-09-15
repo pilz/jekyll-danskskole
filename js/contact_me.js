@@ -19,7 +19,7 @@ $(function() {
                 firstName = name.split(' ').slice(0, -1).join(' ');
             }
             $.ajax({
-                url: "https://formspree.io/pilz@syslab.com",
+                url: "https://formspree.io/info@dansk-skole.de",
                 type: "POST",
                 data: {
                     name: name,
