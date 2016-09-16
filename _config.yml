@@ -73,7 +73,7 @@ people:
 
 - name: Maiken Bertelsen
   pic: 4
-  position: Lærer for 0. klasse
+  position: Lærer for 0. +1. klasse
   social:
     # - title: linkedin
     #   url: birgit bazzar
@@ -96,7 +96,7 @@ people:
 
 - name: Sabine Emslander
   pic: 2
-  position: Lærer for 0. klasse
+  position: Lærer for 0. + 1. klasse
   social:
     # - title: twitter
     #   url: #
