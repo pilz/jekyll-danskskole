@@ -35,8 +35,8 @@ Tel 08141 363 75 87
 info@dansk-skole.de
 </pre>
 
-- Tilmelding til forening (2016) <a href="files/1_Vereinsbeitrittserklaerung_2016.doc" type="button" class="btn btn-default btn-download"><i class="fa fa-check-square"></i> Download Tilmeldingsaftale</a>
-- Tilmelding til undervisning <a href="files/1_Unterrichtsvertrag_20142015.pdf" type="button" class="btn btn-default btn-download"><i class="fa fa-check-square"></i> Download Undervisningsaftale</a>
+- Tilmelding til forening (2016) <a href="files/Vereinsbeitrittserklaerung_2016.pdf" type="button" class="btn btn-default btn-download"><i class="fa fa-check-square"></i> Download Tilmeldingsaftale</a>
+- Tilmelding til undervisning <a href="files/Unterrichtsvertrag_2016.pdf" type="button" class="btn btn-default btn-download"><i class="fa fa-check-square"></i> Download Undervisningsaftale</a>
 
 I er selvfølgelig meget velkomne til at sende evt. spørgsmål til: <a href="mailto:info@dansk-skole.de">info@dansk-skole.de</a>
 

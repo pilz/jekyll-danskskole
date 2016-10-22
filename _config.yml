@@ -138,6 +138,27 @@ people:
     # - title: google-plus
     #   url: #
 
+- name: Clara Wärme Otterstrøm
+  pic: 16
+  position: Hjælpelærer 0+1 klasse
+  social:
+    # - title: linkedin
+    #   url: birgit bazzar
+    - title: facebook
+      url: https://www.facebook.com/profile.php?id=1483013939
+    # - title: google-plus
+    #   url: #
+
+- name: Katrine Holmsnæs
+  pic: 17
+  position: Hjælpelærer 
+  social:
+    # - title: linkedin
+    #   url: birgit bazzar
+    - title: facebook
+      url: https://www.facebook.com/katrine.holmsnaes
+    # - title: google-plus
+    #   url: #
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
