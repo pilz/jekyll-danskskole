@@ -4,8 +4,8 @@ subtitle: Åbent hus
 layout: default
 modal-id: 3
 date: 2016-10-22
-thumbnail: tilmeld-thumbnail.jpg
-img: 
+thumbnail: spaghetti-thumbnail.jpg
+img: spaghetti.jpg
 alt: "Lørdagsfritter"
 description: "Åbent hus"
 ---
