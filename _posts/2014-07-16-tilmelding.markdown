@@ -2,7 +2,7 @@
 title: "Tilmelding"
 subtitle: Så kan du melde dig til den danske skole.
 layout: default
-modal-id: 3
+modal-id: 4
 date: 2014-07-17
 thumbnail: tilmeld-thumbnail.jpg
 img: tilmeld.jpg
