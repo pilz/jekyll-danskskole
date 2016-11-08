@@ -1,6 +1,6 @@
 ---
 title: "Lørdagsfritter"
-subtitle: Åbent hus
+subtitle: mødekalender/mødedage
 layout: default
 modal-id: 3
 date: 2016-10-22
