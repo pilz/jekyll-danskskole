@@ -18,7 +18,7 @@ description: ""
 24.09.2016 - Skolestart
 08.10.2016
 22.10.2016
-12.11.2016
+12.11.2016 - Vikingeudflugt til Rosenheim -ingen undervisning i Pasing
 26.11.2016
 03.12.2016 - Julefest
 14.01.2017

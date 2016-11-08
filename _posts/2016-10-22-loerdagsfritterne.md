@@ -11,16 +11,29 @@ description: "Åbent hus"
 ---
 
 
-# Lørdagsfritter – åbent hus
+# Lørdagsfritteren - mødekalender/mødedage
 
-Kære danske familier
+Lørdagsfritteren er for de lidt større børn der går i 6. Klasse og over dvs. ikke længere går i den danske skole. I Fritteren handler det mest om bare at være sammen om noget sjovt.
 
-Som noget nyt har vi en ’Lørdagsfritter’ for de lidt større børn der går i 6. Klasse og over dvs. ikke længere går i den danske skole. I Fritteren handler det mest om bare at være sammen om noget sjovt. Det kunne være lave noget sport sammen, se gode danske film, danse noget hip hop, lave nogle fede udflugter etc. og alt sammen på dansk. Det er vigtigt at det bliver en Lørdagsfritter hvor ungerne selv bestemmer indholdet.
+På åbent hus dagen kunne børnene stemme på hvilke af Mikkels aktivitetsforslag de helst ville lave. De fik kun 3 stemmer hver og ud fra det har Mikkel lavet er foreløbigt program:
 
-Lørdags fritteren mødes ca. hver måned, så ungerne har tid til lektier og andre fritidsaktiviteter. 
+<pre>
+26/11 - Øve juleforestiling til Julefesten
+3/12  - Julefest. Vi laver konfekt +evt. kage og fremviser juleforestilling
+14/1  - Alternativ musikworkshop
+18/2  - Fastelavn, vi laver fastelavnsboller + pynter tønden
+18/3  - Geocatching i en park (husk madpakke)
+1/4   - Stor skattejagt
+20/5  - Parkourworkshop
+24/6  - Besluttes senere 
++en sommerfest i Juli måned -dato ikke fastlagt endnu.
+</pre>
 
-For at se om der er interesse inviterer vi til åbent hus for alle interesserede unge. Her kan i møde Mikkel som leder initiativet og snakke om hvad vi kunne få på programmet.
+Fritteren mødes kl.10:15 -lige efter morgensamlingen i det lille køkken på 1.sal.
 
-Det hele sker 22. Oktober klokken 10.15 i Comenius skolen i pasing. Vi mødes i køkkenet på 1. Sal.
+Der er mødedag ca. en gang om måneden, så ungerne har tid til lektier og andre fritidsaktiviteter.
 
-Vi glæder os til at se jer!
+Det koster 15€/måneden at deltage og familien skal være medlem af foreningen ‘Den Danske Skole’. For at melde sig til skal man udfylde både en tilmelding til foreningen og en undervisningskontrakt. 
+
+- Tilmelding til forening (2016) <a href="files/Vereinsbeitrittserklaerung_2016.pdf" type="button" class="btn btn-default btn-download"><i class="fa fa-check-square"></i> Download Tilmeldingsaftale</a>
+- Tilmelding til undervisning <a href="files/Unterrichtsvertrag_2016.pdf" type="button" class="btn btn-default btn-download"><i class="fa fa-check-square"></i> Download Undervisningsaftale</a>
