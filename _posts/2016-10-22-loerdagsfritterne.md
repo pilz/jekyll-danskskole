@@ -22,9 +22,9 @@ På åbent hus dagen kunne børnene stemme på hvilke af Mikkels aktivitetsforsl
 3/12  - Julefest. Vi laver konfekt +evt. kage og fremviser juleforestilling
 14/1  - Alternativ musikworkshop
 18/2  - Fastelavn, vi laver fastelavnsboller + pynter tønden
-18/3  - Geocatching i en park (husk madpakke)
-1/4   - Stor skattejagt
-20/5  - Parkourworkshop
+18/3  - Forårs-overraskelse 
+1/4   - Parkourworkshop
+20/5  - Geocatching
 24/6  - Besluttes senere 
 +en sommerfest i Juli måned -dato ikke fastlagt endnu.
 </pre>
