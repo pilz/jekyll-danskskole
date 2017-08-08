@@ -7,7 +7,7 @@ date: 2016-10-22
 thumbnail: spaghetti-thumbnail.jpg
 img: spaghetti.jpg
 alt: "Lørdagsfritter"
-description: "Åbent hus"
+description: ""
 ---
 
 
@@ -18,15 +18,7 @@ Lørdagsfritteren er for de lidt større børn der går i 6. Klasse og over dvs.
 På åbent hus dagen kunne børnene stemme på hvilke af Mikkels aktivitetsforslag de helst ville lave. De fik kun 3 stemmer hver og ud fra det har Mikkel lavet er foreløbigt program:
 
 <pre>
-26/11 - Øve juleforestiling til Julefesten
-3/12  - Julefest. Vi laver konfekt +evt. kage og fremviser juleforestilling
-14/1  - Alternativ musikworkshop
-18/2  - Fastelavn, vi laver fastelavnsboller + pynter tønden
-18/3  - Forårs-overraskelse 
-1/4   - Parkourworkshop
-20/5  - Geocatching
-24/6  - Besluttes senere 
-+en sommerfest i Juli måned -dato ikke fastlagt endnu.
+Endnu ingen planlagt for skoleåret 2017/18
 </pre>
 
 Fritteren mødes kl.10:15 -lige efter morgensamlingen i det lille køkken på 1.sal.
