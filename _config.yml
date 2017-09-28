@@ -160,6 +160,19 @@ people:
     # - title: google-plus
     #   url: #
 
+- name: Niels Knudsen
+  pic: 18
+  position: Lærer for Trin 3 
+  social:
+    - title: xing
+      url: https://www.xing.com/profile/Niels_Knudsen2
+    # - title: linkedin
+    #   url: birgit bazzar
+    #- title: facebook
+    #  url: https://www.facebook.com/katrine.holmsnaes
+    # - title: google-plus
+    #   url: #
+
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
