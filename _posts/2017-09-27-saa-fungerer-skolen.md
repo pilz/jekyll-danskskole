@@ -2,9 +2,9 @@
 title: "Skolesystemets opbygning"
 subtitle: Sådan fungerer vores skolesystem
 layout: default
-modal-id: 4
+modal-id: 5
 date: 2014-07-17
-thumbnail: skole-struktur.png
+thumbnail: skole-struktur-thumbnail.png
 img: skole-struktur.png
 alt: "Sådan fungerer vores skolesystem"
 description: "Sådan fungerer vores skolesystem"
