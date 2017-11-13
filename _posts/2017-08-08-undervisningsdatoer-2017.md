@@ -2,7 +2,7 @@
 title: Undervisningsdatoer
 subtitle: Skoleåret 2017/18
 layout: default
-modal-id: 1
+modal-id: datoer
 date: 2017-08-08
 img: undervisning.jpg
 thumbnail: undervisning-thumbnail.jpg

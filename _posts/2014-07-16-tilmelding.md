@@ -1,13 +1,13 @@
 ---
-title: "Tilmelding"
-subtitle: Så kan du melde dig til den danske skole.
+title: "Priser og Tilmelding"
+subtitle: "Sådan kan du tilmelde dig."
 layout: default
-modal-id: 4
+modal-id: tilmelding
 date: 2014-07-17
 thumbnail: tilmeld-thumbnail.jpg
 img: tilmeld.jpg
-alt: "Tilmeld dig til den danske skole."
-description: "Det er kun et par ting der er nødvendigt til at tilmelde jer til danskskolen. Her finder du detailjerne og blanket."
+alt: "Sådan kan du tilmelde dig den danske skole."
+description: "Den Danske Skole er en forening drevet af os forældre. Der tilbydes undervisning i dansk for alle børn i alle aldre ca. 16-17 lørdage om året. Det er altså ikke en regulær skole men et ekstra fritidstilbud til jer der gerne vil give jeres børn det danske sprog og kultur."
 ---
 
 ### Priser
@@ -18,7 +18,7 @@ Vores tilbud til børnene afhænger af deres alder:
 
 - 0-3 år: Miniklub, hvor barnet deltager med forældre i den første time af legegruppen. Dette koster 5 € /måned per barn eller 50 €/ år per barn.
 - Fra 3 år deltager barnet uden forældre. Undervisningsgebyret koster 25 € / måned per barn eller 250 €/ år per barn.
-- Fra ca. 11 år/ 6.klasse kan barnet deltage i Lørdags fritteren. Den mødes en gang om måneden og koster 15€ / måned per barn eller 150 €/ år per barn.
+
 
 Oversigt over undervisningslørdage kan findes på hjemmesiden. Ved årlig betaling forventer vi indbetaling senest d. 15 Oktober. 
 

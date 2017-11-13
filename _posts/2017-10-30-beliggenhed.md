@@ -2,7 +2,7 @@
 title: Beliggenhed
 subtitle: Så kan du finde os
 layout: default
-modal-id: 2
+modal-id: beliggenhed
 date: 2014-07-17
 <!-- img: escape.png -->
 thumbnail: map-thumbnail.png
