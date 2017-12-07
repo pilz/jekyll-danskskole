@@ -36,7 +36,7 @@ info@dansk-skole.de
 </pre>
 
 - Tilmelding til forening (2016) <a href="files/Vereinsbeitrittserklaerung_2016.pdf" type="button" class="btn btn-default btn-download"><i class="fa fa-check-square"></i> Download Tilmeldingsaftale</a>
-- Tilmelding til undervisning <a href="files/Unterrichtsvertrag_2016.pdf" type="button" class="btn btn-default btn-download"><i class="fa fa-check-square"></i> Download Undervisningsaftale</a>
+- Tilmelding til undervisning <a href="files/Unterrichtsvertrag_2017.pdf" type="button" class="btn btn-default btn-download"><i class="fa fa-check-square"></i> Download Undervisningsaftale</a>
 
 I er selvfølgelig meget velkomne til at sende evt. spørgsmål til: <a href="mailto:info@dansk-skole.de">info@dansk-skole.de</a>
 
@@ -47,13 +47,6 @@ I er selvfølgelig meget velkomne til at sende evt. spørgsmål til: <a href="ma
 - Undervisningskoncept <a href="files/koncept_dk-skole.doc" type="button" class="btn btn-default btn-download"><i class="fa fa-download"></i> Download</a>
 - Den Danske Skoles vedtægter/Satzung (Jan 2015) <a href="files/Satzung_Jan2015.pdf" type="button" class="btn btn-default btn-download"><i class="fa fa-download"></i> Download</a>
 
-<!-- <a href="files/1_Vereinsbeitrittserklaerung_2012.doc">Tilmelding til forening</a><br>
-<a href="files/1_Unterrichtsvertrag_20142015.pdf">Tilmelding til undervisning 2014/2015</a><br>
- -->
-<!-- <a href="files/Huskeliste_Den_Danske_Skole.doc">Huskeliste</a><br>
-<a href="files/koncept_dk-skole.doc">Undervisningskoncept</a><br>
-<a href="files/SatzungMai2010.doc">Den Danske Skoles vedtægter/Satzung</a> 
- --> 
 
 #### Generalforsamlings Protokoller
 
