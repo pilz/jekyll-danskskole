@@ -1,13 +1,13 @@
 ---
 title: Undervisningsdatoer
-subtitle: Skoleåret 2017/18
+subtitle: Skoleåret 2018/19
 layout: default
 modal-id: datoer
 date: 2017-08-08
 img: undervisning.jpg
 thumbnail: undervisning-thumbnail.jpg
 alt: image-alt
-project-date: August 2017
+project-date: August 2018
 client: Start Bootstrap
 category: Web Development
 description: ""
@@ -15,21 +15,25 @@ description: ""
 
 
 <pre>
-30.09.2017 - Skolestart
-07.10.2017
-21.10.2017
-11.11.2017
-25.11.2017
-02.12.2017 - Julefest
-13.01.2018
-27.01.2018
-03.02.2018 - Fastelavn
-24.02.2018
-03.03.2018    
-10.03.2018 - Påske
-14.04.2018
-28.04.2018
-05.05.2018
-09.06.2018
-23.06.2018 - Skt. Hans
+15.09.2018
+29.09.2018
+06.10.2018
+20.10.2018
+10.11.2018
+24.11.2018
+01.12.2018
+15.12.2018
+12.01.2019
+26.01.2019
+09.02.2019
+23.02.2019
+16.03.2019 eller 17.03.2019 Udflugt (Supernovaen i Garching?)
+30.03.2019
+06.04.2019
+13.04.2019
+04.05.2019
+18.05.2019
+01.06.2019
+29.06.2019
+06.07.2019
 </pre>
